@@ -1,16 +1,16 @@
-#Détection de Tumeurs Cérébrales & Études Physiques
+# Détection de Tumeurs Cérébrales & Études Physiques
 **Auteur :** AGOUNDO Jean-Marie  
 **Projet :** Classification d'images IRM (Démarche CRISP-DM) & Analyse Physique
 
 ---
 
-##Présentation du Projet
+## Présentation du Projet
 Ce dépôt regroupe des travaux interdisciplinaires alliant l'analyse de données médicales et la modélisation physique :
 
 1.  **Classification IRM** : Détection de tumeurs cérébrales en utilisant des descripteurs **HOG** et des modèles **SVM / k-NN**.
 2.  **Physique Théorique** : Étude des développements multipolaires (électrostatique) et transition de l'équation de Cauchy à l'équation de Navier (mécanique des fluides/solides).
 
-##Installation
+## Installation
 
 Pour cloner ce projet et installer les bibliothèques nécessaires :
 
