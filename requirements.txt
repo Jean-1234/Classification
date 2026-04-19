@@ -1,0 +1,9 @@
+### 3. Le fichier `requirements.txt`
+
+Ce fichier permet aux autres utilisateurs d'installer les mêmes versions de bibliothèques que toi.
+
+```text
+pandas
+matplotlib
+numpy
+os-sys
